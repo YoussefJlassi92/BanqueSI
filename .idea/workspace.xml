@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="146802f5-e345-4223-802e-f3e252ebdb97" name="Default" comment="" />
+=======
+    <list default="true" id="66b5f225-ba7e-4b4e-909d-c4c54b8fc2a0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/TestCopy/Test" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/TestCopy/Test" afterDir="false" />
+    </list>
+>>>>>>> 2e6045228096704e9414cd58ac1f1cd1735bc818
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +21,13 @@
       <file leaf-file-name="Test" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/TestCopy/Test">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state>
               <caret column="10" selection-start-column="10" selection-end-column="10" />
+=======
+            <state relative-caret-position="17">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+>>>>>>> 2e6045228096704e9414cd58ac1f1cd1735bc818
             </state>
           </provider>
         </entry>
@@ -45,8 +56,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="AndroidView" />
+=======
+>>>>>>> 2e6045228096704e9414cd58ac1f1cd1735bc818
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,14 +90,23 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+>>>>>>> 2e6045228096704e9414cd58ac1f1cd1735bc818
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+=======
+>>>>>>> 2e6045228096704e9414cd58ac1f1cd1735bc818
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,6 +168,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="146802f5-e345-4223-802e-f3e252ebdb97" name="Default" comment="" />
       <created>1527061387388</created>
       <option name="number" value="Default" />
@@ -166,6 +190,14 @@
       <updated>1527062125707</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+      <changelist id="66b5f225-ba7e-4b4e-909d-c4c54b8fc2a0" name="Default" comment="" />
+      <created>1527066936061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527066936061</updated>
+    </task>
+>>>>>>> 2e6045228096704e9414cd58ac1f1cd1735bc818
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -202,6 +234,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test 1" />
     <MESSAGE value="Test 2" />
@@ -212,12 +245,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="10" selection-start-column="10" selection-end-column="10" />
+=======
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/TestCopy/Test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+>>>>>>> 2e6045228096704e9414cd58ac1f1cd1735bc818
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+<<<<<<< HEAD
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -280,6 +321,11 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+=======
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+>>>>>>> 2e6045228096704e9414cd58ac1f1cd1735bc818
           <splitter-proportions>
             <option name="proportions">
               <list>
